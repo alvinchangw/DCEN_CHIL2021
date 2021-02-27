@@ -1,0 +1,8 @@
+***** Eval splicesome models results ADP1_chr5 *****eval_loss_reg = 0.07807919530030252
+***** Eval splicesome models results ADP1_chr5 *****pearson_acc = 0.6803274648528355
+***** Eval splicesome models results ADP1_chr5 *****pearson_don = 0.6850291916990764
+***** Eval splicesome models results ADP1_chr5 *****pearson_ss = 0.6827753746932083
+***** Eval splicesome models results ADP1_chr5 *****spearmanr_acc = 0.673179856895121
+***** Eval splicesome models results ADP1_chr5 *****spearmanr_don = 0.6784314580499244
+***** Eval splicesome models results ADP1_chr5 *****spearmanr_ss = 0.6759718125087476
+Overall time elapsed: 0 hrs 1 mins 57 seconds

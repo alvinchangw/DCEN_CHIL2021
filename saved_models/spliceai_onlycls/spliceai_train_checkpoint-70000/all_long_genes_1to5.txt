@@ -1,0 +1,13 @@
+pearson_acc = 0.3549215990574238
+pearson_don = 0.34401985563686516
+pearson_ss = 0.3490884367108906
+spearmanr_acc = 0.41084664101746665
+spearmanr_don = 0.39210853618930014
+spearmanr_ss = 0.40257172585738676
+*****
+ patient_ids_to_eval: [1, 2, 3, 4, 5] 
+*****
+ tissue_types_to_eval: ['ADP', 'BLD', 'BRN', 'BRS', 'CLN', 'HRT', 'KDN', 'LVR', 'LNG', 'LMP', 'PRS', 'SKM', 'TST', 'THR'] 
+*****
+ chromosomes_to_eval: ['chr2_long', 'chr4_long', 'chr6_long', 'chr8_long', 'chr10_long', 'chr11_long', 'chr12_long', 'chr13_long', 'chr14_long', 'chr15_long', 'chr16_long', 'chr17_long', 'chr18_long', 'chr19_long', 'chr20_long', 'chr21_long', 'chr22_long', 'chrX_long', 'chrY_long'] 
+Overall time elapsed: 0 hrs 0 mins 7 seconds
